@@ -1,4 +1,5 @@
 -- restaurar bd
+--otra prueba
 -- restaurar logins EXEC sp_change_users_login 'Update_one','adm_obj_db','adm_obj_db'
 -
 use seguridad
