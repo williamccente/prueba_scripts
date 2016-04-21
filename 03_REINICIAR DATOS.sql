@@ -242,7 +242,7 @@ GO
 INSERT INTO TABLA_APO (PERIODO, MES, CUOTA_APORTE_MN, CUOTA_APORTE_ME, CUOTA_APORTE_NINO, CUOTA_INGRESO, CUOTA_FPS_SOCIO, CUOTA_FPS_NINO, CUOTA_FPS_CONYUGE, APORTE_INSCRIPCION, COD_USUARIO, DATE_ACTUALIZA) 
 VALUES ('2010', '12', 10, 0, 0, 5, 10, 10, 10, 35, 'ADMIN03', NULL)
 GO
-
+--wc prueba de modificacion
 --cuando hay error de no se hizo proceso de capitalizacion o proceso de cierre de cartera
 -- agregar registro en la tabla procesos
 
